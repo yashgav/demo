@@ -1,0 +1,17 @@
+nav{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+    padding: 2rem;
+    color: cyan;
+}
+.nav-links{    
+    display: flex;
+    justify-content: space-between;
+}
+.lins a{
+    padding: 0 10px;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+}
